@@ -18,4 +18,3 @@ export const wishSlice = createSlice({
 
 export const { addWish } = wishSlice.actions;
 export default wishSlice.reducer;
-export default wishSlice.reducer;
